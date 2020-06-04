@@ -1,0 +1,43 @@
+
+body{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 25%;
+    padding-right: 40%;
+}
+
+h1 h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: rgb(53, 55, 68);
+}
+
+h2{
+    color: rgb(35, 212, 198);
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(53, 55, 68);
+}
+
+ul{
+    color: rgb(53, 55, 68);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.centimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#corner{
+    position: fixed;
+    right:0px;
+    top:0px;
+}
