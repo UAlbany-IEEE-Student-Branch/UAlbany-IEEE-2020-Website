@@ -7,14 +7,14 @@
             "label": "Start Server",
             "type": "shell",
             "windows":{
-                "command": "./dbg/StartServer.bat"
+                "command": "${workspaceFolder}\\.vscode\\dbg\\StartServer.bat"
             }
         },
         {
             "label": "Kill Server",
             "type": "shell",
             "windows":{
-                "command": "./dbg/KillServer.bat"
+                "command": "${workspaceFolder}\\.vscode\\dbg\\KillServer.bat"
             }
         }
     ]
